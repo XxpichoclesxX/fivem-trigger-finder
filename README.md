@@ -1,2 +1,4 @@
 # fivem-trigger-finder
-is not mine i just wanna share with you this new tool a friend gave me
+A tool to help you execute triggers in some servers, you can enter file directory of the destinated server and you will have every single trigger you need.
+
+You need an executor before using this tool to dump the destinated server.
